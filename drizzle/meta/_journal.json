@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1786447249255,
+      "tag": "0000_new_scrambler",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1786447283866,
+      "tag": "0001_one_host_per_room",
+      "breakpoints": true
+    }
+  ]
+}
